@@ -26,3 +26,4 @@ result <- pi_monte(18000)
 
 title_text <- paste("n =", 18000, ", π ≈", format(result, digits = 5))
 title(main = title_text)
+
